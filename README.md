@@ -1,2 +1,6 @@
 # hello--world
 My first repository
+Hello , this is Navanidhi....
+New to tech field ,I hope I will learn something
+pursuing Computer Science and Engineering 2nd year,3rd sem.....
+c programming is the only thing I know as of know.
